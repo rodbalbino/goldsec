@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Rodrigo Balbino
   pic: 1
-  position: Lead Designer
+  position: Application Security Engineer
   social:
     - title: twitter
       url: #
@@ -22,7 +22,7 @@ people:
 
 - name: Cássio Batista
   pic: 2
-  position: Lead Marketer
+  position: Application Security Engineer
   social:
     - title: twitter
       url: #
