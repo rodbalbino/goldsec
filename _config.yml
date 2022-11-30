@@ -1,15 +1,15 @@
-url: https://y7kim.github.io
+url: https://goldappsec.com.br
 baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: GoldSec
+email: balbino.silva@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Rodrigo Balbino
   pic: 1
   position: Lead Designer
   social:
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Cássio Batista
   pic: 2
   position: Lead Marketer
   social:
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Gilmar Rodrigues
   pic: 3
-  position: Lead Developer
+  position: Lead Sales
   social:
     - title: twitter
       url: #
