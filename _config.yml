@@ -2,7 +2,7 @@ url: https://goldappsec.com.br
 baseurl: /
 
 # Site settings
-title: GoldSec
+title: GoldSec - Application Security
 email: balbino.silva@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -11,54 +11,54 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Rodrigo Balbino
   pic: 1
-  position: Application Security Engineer
+  position: CEO
   social:
     - title: twitter
       url: https://twitter.com/rodbasec
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    # - title: facebook
+    #   url: #
+    # - title: stack-overflow
+    #   url: #
 
-- name: Cássio Batista
+- name: Cássio Pereira
   pic: 2
-  position: Application Security Engineer
+  position: CTO
   social:
     - title: twitter
       url: https://twitter.com/cassiodeveloper
     - title: facebook
-      url: #
+      url: https://facebook.com/cassiodeveloper
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/cassiodeveloper
 
 - name: Gilmar Rodrigues
   pic: 3
   position: Lead Sales
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    # - title: google-plus
+    #   url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket 
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: São Paulo, Brasil
+  - line: ...
 
 # Build settings
 markdown: kramdown
